@@ -3,6 +3,6 @@
 
 frappe.ui.form.on('Testing', {
 	refresh: function(frm) {
-		frappe.msgprint("Hi")
+		frappe.msgprint("Hi this is from another")
 	}
 });
